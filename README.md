@@ -23,3 +23,6 @@ run ด้วย node index.ts
 
 หรือสามารถ run ใน replit ได้ ขอบคุณค่ะ
 
+replit
+https://replit.com/join/iqurqfndsn-punnarak
+
