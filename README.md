@@ -21,4 +21,5 @@ cd Downloads
 compile ด้วย tsc index.ts
 run ด้วย node index.ts
 
+หรือสามารถ run ใน replit ได้ ขอบคุณค่ะ
 
