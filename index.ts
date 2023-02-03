@@ -2,7 +2,8 @@
 const readline = require("readline-sync");
 var c1 = readline.question("Enter Collection_1 : ");
 var c2  = readline.question("Enter Collection_2 : ");
-let myFunc = num => Number(num);
+
+let myFunc = (num: any) => Number(num);
 
 var collection_1 = String(c1).split(' ').map(myFunc)
 var collection_2 = String(c2).split(' ').map(myFunc)
