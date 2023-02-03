@@ -15,11 +15,18 @@ Enter Collection_2 : 1 3 2
 ถ้าไม่มี typescript compiler
 ให้พิมพ์ npm install -g typescript แล้วกด enter
 npm install typescript --save-dev
+npm install -D typescript
+npm install -D ts-node
+npm install -g ts-node
+npm install --save readline-sync
+npm install -D tslib @types/node
 npm i --save-dev @types/node
+
+
 และทำการ เช็ค version ด้วยคำสั่ง tsc -v
 cd Downloads
 compile ด้วย tsc index.ts
-run ด้วย node index.ts
+run ด้วย ts-node index.ts
 
 หรือสามารถ run ใน replit ได้ ขอบคุณค่ะ
 
