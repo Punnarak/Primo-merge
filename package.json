@@ -1,0 +1,23 @@
+{
+  "name": "primo-merge",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Punnarak/Primo-merge.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Punnarak/Primo-merge/issues"
+  },
+  "homepage": "https://github.com/Punnarak/Primo-merge#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
