@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/Punnarak/Primo-merge#readme",
   "dependencies": {
+    "core-js": "^3.27.2",
     "readline-sync": "^1.4.10"
   }
 }
